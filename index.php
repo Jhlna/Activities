@@ -104,6 +104,7 @@ It's a small
 			<br><sub> Andy Andrews</sub>
 		</font>
 		<br><br>
+		<center>
 	<font color="green" size="5" face="verdana">
 		Jhuliana Mae D. Ambos
 
